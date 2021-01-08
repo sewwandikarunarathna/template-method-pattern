@@ -1,0 +1,7 @@
+D:\quadrate\template\templateMethod\templateMethod\obj\Debug\templateMethod.csprojAssemblyReference.cache
+D:\quadrate\template\templateMethod\templateMethod\obj\Debug\templateMethod.csproj.CoreCompileInputs.cache
+D:\quadrate\template\templateMethod\templateMethod\bin\Debug\templateMethod.dll.config
+D:\quadrate\template\templateMethod\templateMethod\bin\Debug\templateMethod.dll
+D:\quadrate\template\templateMethod\templateMethod\bin\Debug\templateMethod.pdb
+D:\quadrate\template\templateMethod\templateMethod\obj\Debug\templateMethod.dll
+D:\quadrate\template\templateMethod\templateMethod\obj\Debug\templateMethod.pdb
